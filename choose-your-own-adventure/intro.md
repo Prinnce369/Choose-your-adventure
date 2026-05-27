@@ -9,3 +9,5 @@ A single message appears on the main monitor:
 The room goes silent. Somewhere behind the wall, a machine starts humming. You have only a few minutes before the project files disappear forever.
 
 What do you do next?
+
+- [Open the glowing debug console](debug-console.md)
